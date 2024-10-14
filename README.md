@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="#">
-    <img width="100%" height="auto" src="(https://coinmozo.com/wp-content/uploads/2024/09/Coin-Mozo-15.jpg)" alt="Image" />
+    <img width="100%" height="auto" src="[https://coinmozo.com/wp-content/uploads/2024/09/Coin-Mozo-15.jpg]" alt="Image" />
   </a>
 </div>
 
