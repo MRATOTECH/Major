@@ -3,13 +3,13 @@
 
 <div align="center">
   <a href="#">
-    <img width="100%" height="auto" src="https://miro.medium.com/v2/resize:fit:1400/0*8d4wmsow1-OFBPQ-" alt="Image" />
+    <img width="100%" height="auto" src="https://coinmozo.com/wp-content/uploads/2024/09/Coin-Mozo-15.jpg*8d4wmsow1-OFBPQ-" alt="Image" />
   </a>
 </div>
 
 🔗 **Buy & Sell Here** : [TELEGRAM HOT DEAL SHOP](https://t.me/THDShop)
 
-🔗 **CLIK TO GET USER/QUERY** : [BLUM](https://t.me/major/app
+🔗 **CLIK TO GET USER/QUERY** : [MAJOR](https://t.me/major/start?startapp=7916998196)
 
 Join me on Blum and let's earn together! Use my invite link to join the fun. 🌟
 
